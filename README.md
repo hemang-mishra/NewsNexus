@@ -25,7 +25,7 @@ News Nexus is a sleek and modern Android application that allows users to search
 - **📱 Adaptive Layouts**: Responsive layouts using the latest adaptive library.
 - **🔗 Share News**: Easily share news articles via URL.
 
-## Demo
+## Video Demo
 
 [![Watch the demo](https://img.youtube.com/vi/KQJSRSc9ZYI/maxresdefault.jpg)](https://youtu.be/KQJSRSc9ZYI)
 
