@@ -50,9 +50,6 @@ To set up and run the News Nexus app on your local machine, follow these steps:
 4. **Build and Run**:
    Build and run the project on an Android device or emulator.
 
-## Contributing
-
-We welcome contributions! Please see the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines.
 
 ## License
 
