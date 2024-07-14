@@ -61,5 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="www.linkedin.com/in/hemangmishra">Hemang</a>
+  Built with ❤️ by <a href="https://github.com/HemangMishra1234">Hemang</a>
 </p>
