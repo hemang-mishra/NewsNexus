@@ -27,7 +27,7 @@ News Nexus is a sleek and modern Android application that allows users to search
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/KQJSRSc9ZYI/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/KQJSRSc9ZYI/maxresdefault.jpg)](https://youtu.be/KQJSRSc9ZYI)
 
 ## Setup
 
