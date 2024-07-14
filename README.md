@@ -61,9 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="200">
-</p>
-
-<p align="center">
-  Built with ❤️ by <a href="https://your-link.com">Your Name</a>
+  Built with ❤️ by <a href="www.linkedin.com/in/hemangmishra">Hemang</a>
 </p>
