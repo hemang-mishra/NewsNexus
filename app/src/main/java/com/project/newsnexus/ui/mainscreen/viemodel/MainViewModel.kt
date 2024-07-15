@@ -75,7 +75,7 @@ class MainViewModel(
 
     suspend fun isArticleSaved(article: Article): Boolean {
         val articles = localRepository.getSavedArticles()
-        return articles.firstOrNull()?.contains(article)?.let { true } ?: false
+        return articles.firstOrNull()?.contains(article)?:false
     }
 
     fun saveArticle(article: Article) {
